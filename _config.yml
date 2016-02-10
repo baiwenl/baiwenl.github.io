@@ -15,7 +15,8 @@ url: "https://baiwenl.github.io" # the base hostname & protocol for your site
 github_username:  baiwenl
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet # kramdown
+permalink: pretty # date|pretty|none
 
 #baiwenl
 timezone: Asia/Shanghai
