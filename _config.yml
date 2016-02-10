@@ -11,7 +11,7 @@ title: coderec
 description: > # this means to ignore newlines until "baseurl:"
   记录遇到的问题用来回溯。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "https://baiwenl.github.io" # the base hostname & protocol for your site
 github_username:  baiwenl
 
 # Build settings
