@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CodeRec on CodeRec</title>
-    <link>http://baiwenl.github.io/index.xml</link>
+    <link>https://baiwenl.github.io/index.xml</link>
     <description>Recent content in CodeRec on CodeRec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -14,10 +14,10 @@
         
           <item>
             <title>测试中文</title>
-            <link>http://baiwenl.github.io/post/2017-04-12/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87/</link>
+            <link>https://baiwenl.github.io/post/2017-04-12/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87/</link>
             <pubDate>Wed, 12 Apr 2017 11:17:54 +0800</pubDate>
             
-            <guid>http://baiwenl.github.io/post/2017-04-12/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87/</guid>
+            <guid>https://baiwenl.github.io/post/2017-04-12/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87/</guid>
             <description>&lt;p&gt;hello page.
 测试中文。&lt;/p&gt;
 </description>
